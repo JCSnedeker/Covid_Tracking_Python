@@ -3,3 +3,4 @@
 The files are the Python code, the raw data CSV from [Covid Tracking Project](https://covidtracking.com/data/charts), and the powerpoint summarizing current progress.
 
 The plot below is the calculated Daily Positive Rate in the US as of 12/2/2020:
+![](Positive_rates.png)
